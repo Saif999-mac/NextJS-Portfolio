@@ -35,11 +35,11 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm a frontend developer specializing in Next-Js,React, HTML, CSS,
-            and JavaScript. I build responsive, accessible interfaces with clean
-            code, modern UI patterns, and performance in mind, turning designs
-            into smooth user experiences that scale across devices and browsers
-            globally reliably.
+            I&apos;m a frontend developer specializing in Next-Js,React, HTML,
+            CSS, and JavaScript. I build responsive, accessible interfaces with
+            clean code, modern UI patterns, and performance in mind, turning
+            designs into smooth user experiences that scale across devices and
+            browsers globally reliably.
           </p>
           <div>
             <Link
