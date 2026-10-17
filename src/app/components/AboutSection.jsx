@@ -10,6 +10,9 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Next-Js</li>
+        <li>Node.Js</li>
+        <li>Express.Js</li>
+        <li>MongoDB</li>
         <li>HTML5 & CSS3</li>
         <li>PostgreSQL</li>
         <li>Git/Github</li>
@@ -24,7 +27,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Seventh Day Adventist Senior Secondary School ,Kolkata</li>
-        <li>Bengal Institute Of Technology , Kolkata</li>
+        <li>TechnoBengal Institute Of Technology , Kolkata</li>
       </ul>
     ),
   },
@@ -33,7 +36,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Completed React MasterCourse From Udemy </li>
+        <li>Completed Full Stack Web Development MasterCourse From Udemy </li>
+        <li>Completed NextJs/React MasterCourse From Udemy </li>
       </ul>
     ),
   },
@@ -58,10 +62,11 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg">
             I am a full stack web developer with a passion for creating
             interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Next.js, PostgreSQL, HTML5,
-            CSS3, and Git. I am a quick learner and I am always looking to
-            expand my knowledge and skill set. I am a team player and I am
-            excited to work with others to create amazing applications.
+            working with Node.js, Express.js, MongoDB, Javascript, React, Redux,
+            Next.js, PostgreSQL, HTML5, CSS3, and Git. I am a quick learner and
+            I am always looking to expand my knowledge and skill set. I am a
+            team player and I am excited to work with others to create amazing
+            applications.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
